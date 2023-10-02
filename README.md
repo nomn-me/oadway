@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @oadway (Dmitry Polushkin)
-- 👀 I’m interested in Web, Music and video games
 - 🌱 I’m currently learning JavaScript
 - 📫 How to reach me in telegram(@oadway)
 
